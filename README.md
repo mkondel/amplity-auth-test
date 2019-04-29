@@ -14,3 +14,5 @@ To test the `<Authenticator>` component. There should be a loading indicator dis
 - Use the provided user/pass above.
 - _If you register with your own email I will be able to see it, so don't._
 - See the GIF below for what happens, or rather the abscense of the loading indicator.
+
+<img src="public/no loading.gif">
